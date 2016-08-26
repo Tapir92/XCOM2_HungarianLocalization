@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>28094c4e-3d30-47ee-bba2-37576ac81ccc</Guid>
+    <Name>LocalizationHUN</Name>
+    <Description>Adds hungarian localization.</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>LocalizationHUN</AssemblyName>
+    <RootNamespace>LocalizationHUN</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Content\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Src\" />
+    <Folder Include="Src\LocalizationHUN\" />
+    <Folder Include="Src\LocalizationHUN\Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Localization\ACUnitSet.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventChestA.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventDoors.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventJail.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventRadar_1x1.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventTower.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventTower_1x1.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventVan_7x2_A.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\AdventVan_7x2_B.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Advent_Van.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CINCourse.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_AdventResponse_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Body_RescueCommander_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Body_SkyRangerEvac_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_CentralCurbStomp_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\cin_env_citycenter.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Env_CityCenterB_2K.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Env_CityCenter_2K.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_FacilityReveal_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_FlightDeviceBriefing_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_FlightDeviceBriefing_Art_CharMask.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_FlightDeviceBriefing_VehicleMask.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_LineUp_Slum_ENV.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Mask_RescueCommander_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Mask_SkyRangerEvac_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_PostIntro_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_RescueCommander_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Skin_AdventResponse_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Skin_CentralCurbStomp_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Skin_FacilityReveal_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Skin_RescueCommander_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_Skin_SkyRangerEvac_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_SkyRangerEvac_Art.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_TP_Blacksite_BodyPile.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_TP_BodyStorage_Geo.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_TP_BuildOutpost_ART.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_TP_BuildOutpost_ART_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\CIN_TP_Forge_Bodies.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Destruction_Config_017.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Destruction_Config_024.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Destruction_Config_GlassTest.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Destruction_Config_NoDestroy.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Editor.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Engine.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\FX_Destruction_Fallback_Debug.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\FX_Fracture_Floating_Debug.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\FX_X2_ObstacleCourse.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\GFxUI.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Kincaid_CharacterTest.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Launch.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_BlackSite_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_chiptransmitter_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Church_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_CloneStorage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Forge_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Garage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_GasStation_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_GeneClinic_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_GeneClinic_01_Theo.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_HumanBodyStorage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_OutpostCommand_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_PropagandaCenter_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_PropagandaCenter_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Propaganda_Park_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_RemoteScienceStation_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_RemoteScienceStation_01_WORKING_BP.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Storefronts_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Townhomes_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\lg_Tutorial_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Abandoned_Lot_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AdventLandingPad_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AdventSecurity_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AdventSecurity_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AdventTrainStation_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Advent_Datacenter_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Advent_Security_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Advent_Security_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Advent_Security_03.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AlienEntertainment_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_AlienEntertainment_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Bank_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_ChipTransmitter_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_ChipTransmitter_03.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_CloneStorage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_geneclinic_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_House_04.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_House_TwoStory_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_HumanBodyStorage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_MeatWarehouse_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_RecruitmentCenter_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_RemoteScienceStation_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Storefronts_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\md_Tavern_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Mission_Assets.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SkyRangerSpinMoves_Pacman.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\sm_ArmsDealer_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\sm_Bank_02.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\sm_Cottage_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\sm_Restaurant_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyAdventPropagandaAnn.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyAdventSpokesman.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyAvengerAI.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyCentral.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyCommClerk.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyCouncil.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyDenmother.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyEthereal.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyMenace2.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyMiscCharacters.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyPrototype.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyResistance.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyShen.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechStrategyTygan.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalCentral.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalEthereal.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalFirebrand.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalKelly.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalOsei.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalPropagandaAnnouncer.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalRamirez.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalShen.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalSpeaker.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalTutorialPickups.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\SoundSpeechTacticalTygan.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\Subtitles.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\TemplateOverrides.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\TentpoleWaveData.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\TutorialWaveData.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\X2NarrativeMoments.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\X2_ObstacleCourse.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\X4_Sequence_Workshop_01.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComGame.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComLauncher.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComShell_Tundra.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\XComShell_Wilderness_Day.INT">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg" />
+    <Content Include="Config\XComEditor.ini" />
+    <Content Include="Config\XComEngine.ini" />
+    <Content Include="Config\XComGame.ini" />
+    <Content Include="Src\LocalizationHUN\Classes\X2DownloadableContentInfo_LocalizationHUN.uc" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
+</Project>
