@@ -1,0 +1,36 @@
+Current state / Jelenlegi állapot: 0.0000000000001%
+
+Adds hungarian localization.
+While this mod is enabled, hungarian text will replace english.
+----------------------------------------------------------------------------------------------------------------------------
+Magyarítás a játékhoz.
+Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
+
+Megjegyzem, nagyon sokáig nem lesz teljesen kész, most éppen csak a sikeres mûködés ellenõrzéséig írtam át benne szövegeket.
+Akit érdekel, iratkozzon fel rá, a Steam automatán el fogja intézni a frissítéseket, ha halad a fordítás.
+
+Nagy meló ez a mod és messze nem az elsõdleges elfoglaltságom, ezért bárkit szívesen fogadok egy kis nyelvtudással, hogy hozzájáruljon és ha akarja, itt is viríthat a neve minden pompájában a leírásban
+megjegyezném, hogy nem röhejes fordításokat szeretnék és ha lehet vegyük figyelembe, hogy esetleg méretre kell szabni egy szöveget (pl. gombok)
+nem feltétlenül a nyers fordítás a cél, hanem az értelmes és leíró tartalom
+
+A project fent van GitHub-on, akinek van kedve, essen neki nyugodtan és küldje majd el az új commit-okat, ezeket majd gyorsan átfutom, aztán kerülnek is fel.
+https://github.com/Tapir92/XCOM2_HungarianLocalization
+Mielõtt nekiállna, mindenképp értesítsen valakit innen:
+
+Hozzájárultak:
+Tapir
+Technophile Max
+
+DLC-k támogatva lesznek
+Long War támogatva lesz
+kérésre egyéb modok is
+
+kommentbe kérek ötleteket a következõ fordításokra:
+Run 'n Gun
+Overwatch
+Long Watch
+Review earned science credits
+...(bõvül még) 
+
+Ismert problémák:
+- lehetséges, hogy le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
