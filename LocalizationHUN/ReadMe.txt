@@ -2,4 +2,5 @@
 XComLauncher
 
 Félkész fileok:
+Subtitles
 XComGame
