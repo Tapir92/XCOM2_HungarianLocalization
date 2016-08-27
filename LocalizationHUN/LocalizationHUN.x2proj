@@ -10,11 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
-    <Folder Include="Content\" />
     <Folder Include="Localization\" />
-    <Folder Include="Src\" />
-    <Folder Include="Src\LocalizationHUN\" />
-    <Folder Include="Src\LocalizationHUN\Classes\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Localization\ACUnitSet.INT">
@@ -427,7 +423,6 @@
     <Content Include="Config\XComEditor.ini" />
     <Content Include="Config\XComEngine.ini" />
     <Content Include="Config\XComGame.ini" />
-    <Content Include="Src\LocalizationHUN\Classes\X2DownloadableContentInfo_LocalizationHUN.uc" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
 </Project>
