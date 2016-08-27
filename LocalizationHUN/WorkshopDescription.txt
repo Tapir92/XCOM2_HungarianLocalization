@@ -30,7 +30,9 @@ Run 'n Gun
 Overwatch
 Long Watch
 Review earned science credits
-...(bõvül még) 
+Dashing (eddig "rohanás")
+Ranked / Unranked Match
+...(bõvül még)
 
 Ismert problémák:
 - lehetséges, hogy le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
