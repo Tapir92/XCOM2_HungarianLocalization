@@ -1,10 +1,16 @@
-Current state / Jelenlegi állapot: 0.0000000000001%
-
 Adds hungarian localization.
 While this mod is enabled, hungarian text will replace english.
 ----------------------------------------------------------------------------------------------------------------------------
 Magyarítás a játékhoz.
 Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
+
+-----Állapot-----
+Interfész: halad
+Tech, Tárgyak és Projectek: 0%
+Narratív feliratok: 0.000001%
+Mellékes feliratok(tárgyak, technológiák, stb.): 0%
+Hibaüzenetek: 0%
+Egyéb (credits, legalscreen, stb.): 0%
 
 Megjegyzem, nagyon sokáig nem lesz teljesen kész, most éppen csak a sikeres mûködés ellenõrzéséig írtam át benne szövegeket.
 Akit érdekel, iratkozzon fel rá, a Steam automatán el fogja intézni a frissítéseket, ha halad a fordítás.
@@ -35,4 +41,4 @@ Ranked / Unranked Match
 ...(bõvül még)
 
 Ismert problémák:
-- lehetséges, hogy le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
+- lehet, hogy 1-2 helyen le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
