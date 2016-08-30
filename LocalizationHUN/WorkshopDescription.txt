@@ -8,7 +8,7 @@ Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
 Interfész: halad
 Tech, Tárgyak és Projectek: 0%
 Narratív feliratok: 0.000001%
-Mellékes feliratok(tárgyak, technológiák, stb.): 0%
+Mellékes feliratok(tárgyak, technológiák leírásai, stb.): 0%
 Hibaüzenetek: 0%
 Egyéb (credits, legalscreen, stb.): 0%
 
@@ -42,3 +42,4 @@ Ranked / Unranked Match
 
 Ismert problémák:
 - lehet, hogy 1-2 helyen le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
+- játék indításkor az egyik menüben totál szétesik az egyik indítógomb az új szöveggel
