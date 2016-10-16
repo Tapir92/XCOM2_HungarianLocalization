@@ -3,6 +3,8 @@ Egységesített szavak listája
 ---------------------------------------------------------------
 Alien = Idegen
 Soldier = Katona
+Start = Indítás
+
 Accept = Elfogad
 Back =  Vissza
 Cancel =  Mégse
