@@ -1,0 +1,72 @@
+-----XComGame.INT-----
+
+m_sMainRoom="Mission Control"
+m_statLabels[1]="KILLS"
+m_strPoorRating="POOR"
+
+[UIUnitFlag]
+m_strReinforcementsTitle=CALL FOR
+m_strReinforcementsBody=REINFORCEMENTS
+
+DaysToPlatedArmor=DAYS TO PLATED ARMOR
+
+
+[XComGame.X2Action_AlertUnit]
+[X2Action_AlertUnit]
+m_sAlertedUnitMessage[0]="Alert!"
+m_sAlertedUnitMessage[1]="Alert! XCOM movement!"
+m_sAlertedUnitMessage[2]="Alert! XCOM spotted!"
+m_sAlertedUnitMessage[3]="Alert! XCOM spotted!"
+m_sAlertedUnitMessage[4]="Alert! Under attack!"
+m_sAlertedUnitMessage[5]="Alert!"
+m_sAlertedUnitMessage[6]="Alert! Under attack!"
+m_sAlertedUnitMessage[7]="Alert! Suspicious noise!"
+m_sAlertedUnitMessage[8]="Alert! Ally called for help!"
+m_sAlertedUnitMessage[9]="Alert! Ally called for help!"
+m_sAlertedUnitMessage[10]="Alert! Civilian called for help!"
+m_sAlertedUnitMessage[11]="Alert! Enemy activity discovered!"
+m_sAlertedUnitMessage[12]="Alert! Explosion nearby!"
+m_sAlertedUnitMessage[13]="Alert! Smoke nearby!"
+m_sAlertedUnitMessage[14]="Alert! Fire nearby!"
+m_sAlertedUnitMessage[15]="Alert! Hunting ally discovered!"
+-----------------------------------------------------------
+m_sAlertedUnitMessage[0]="Figyelem!"
+m_sAlertedUnitMessage[1]="Figyelem! XCOM mozgás!"
+m_sAlertedUnitMessage[2]="Figyelem! XCOM felfedve!"
+m_sAlertedUnitMessage[3]="Figyelem! XCOM felfedve!"
+m_sAlertedUnitMessage[4]="Figyelem! Támadás alatt!"
+m_sAlertedUnitMessage[5]="Figyelem!"
+m_sAlertedUnitMessage[6]="Figyelem! Támadás alatt!"
+m_sAlertedUnitMessage[7]="Figyelem! Gyanús hangok!"
+m_sAlertedUnitMessage[8]="Figyelem! Szövetséges segítséget kér!"
+m_sAlertedUnitMessage[9]="Figyelem! Szövetséges segítséget kér!"
+m_sAlertedUnitMessage[10]="Figyelem! Civil segítséget kér!"
+m_sAlertedUnitMessage[11]="Figyelem! Ellenséges aktivitás felfedezve!"
+m_sAlertedUnitMessage[12]="Figyelem! Közeli robbanás!"
+m_sAlertedUnitMessage[13]="Figyelem! Közeli füst!"
+m_sAlertedUnitMessage[14]="Figyelem! Közeli lángok!"
+m_sAlertedUnitMessage[15]="Figyelem! Hunting ally discovered!"
+
+
+m_sTargetMissDamageDisplay="Mellé!"
+
+
+//ez valszeg nem kell, mert szerintem kivett funkció
+ConfusedFriendlyName="Confused"
+ConfusedLostFriendlyName="Confusion Removed"
+ConfusedFriendlyDesc="This unit will move around randomly, and cannot attack."
+
+
+LocFriendlyName="Mimic Beacon" // LocFriendlyName="Csaligránát"
+
+LocFriendlyName="Páncéltörõ lõszer" // Tapir: lehet van rá másik(ez nagyon RPG hangzatú, megkérdem katona ismerõst)
+
+LocFriendlyName="Stiletto lõszer" //Tapir: "Stiletto: rövid tõr / tûsarok", erre lesz vmi magyar szó
+
+ZombieFlyoverText="Reanimated!" //Tapir: ez nem "újraélesztve", erre kell vmi más
+
+LocFriendlyName="Chain Shot" // itt ne lánc-ként fordítsuk, ha lehet
+
+DisplayName="Field Medic" // Felcser / szanitéc /...
+
+

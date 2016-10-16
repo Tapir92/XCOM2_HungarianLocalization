@@ -26,20 +26,22 @@ Mielõtt nekiállna, mindenképp értesítsen valakit innen:
 Hozzájárultak:
 Tapir
 Technophile Max
+Heisenberg
 
 DLC-k támogatva lesznek
 Long War támogatva lesz
 kérésre egyéb modok is
 
 kommentbe kérek ötleteket a következõ fordításokra:
-Run 'n Gun
-Overwatch
-Long Watch
+Run 'n Gun (eddig: roham)
+Overwatch (eddig: készenlét)
+Long Watch (eddig: készenlét távcsõvel)
 Review earned science credits
+Advanced Warfare Center
 Dashing (eddig "rohanás")
 Ranked / Unranked Match
 ...(bõvül még)
 
 Ismert problémák:
-- lehet, hogy 1-2 helyen le kell mondanunk az 'õ' és 'û' betûkrõl, erre még keresek megoldást :/
-- játék indításkor az egyik menüben totál szétesik az egyik indítógomb az új szöveggel
+- lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még keresek megoldást, addig meg kell barátkozni az esetenként feltûnõ négyzetekkel
+- játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel
