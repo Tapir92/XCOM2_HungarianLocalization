@@ -1,0 +1,31 @@
+---------------------------------------------------------------
+Egységesített szavak listája
+---------------------------------------------------------------
+Alien = Idegen
+Soldier = Katona
+Accept = Elfogad
+Back =  Vissza
+Cancel =  Mégse
+INFIRMARY = Gyengélkedõ
+Confirm = Megerõsít
+ENGINEERING = Gyártósor
+SHADOW CHAMBER = Árnykamra
+friendly fire = Baráti tûz
+match = mérkõzés
+ranked = rangsorolt
+unranked = nem rangsorolt
+Overdrive Serum = túlhajtó szérum
+
+
+ADVENT = ADVENT
+MEC = MEC
+Trooper = Gyalogos
+Officer = Tiszt
+Shieldbearer = Pajzshordozó
+Enforcer =  ? (békefenntartó)
+Stun lancer = ?
+Shock Trooper = ?
+Elite Lancer = ? 
+
+dark event = ?
+concealed = ? ( rejtve,rejtett,leplezett,lopakodó,eltakart,suttyonba,elmismásolt)
