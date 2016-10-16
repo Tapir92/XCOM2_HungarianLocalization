@@ -25,23 +25,28 @@ Mielõtt nekiállna, mindenképp értesítsen valakit innen:
 
 Hozzájárultak:
 Tapir
-Technophile Max
 Heisenberg
+Technophile Max
 
 DLC-k támogatva lesznek
 Long War támogatva lesz
 kérésre egyéb modok is
 
 kommentbe kérek ötleteket a következõ fordításokra:
-Run 'n Gun (eddig: roham)
-Overwatch (eddig: készenlét)
-Long Watch (eddig: készenlét távcsõvel)
-Review earned science credits
-Advanced Warfare Center
-Dashing (eddig "rohanás")
-Ranked / Unranked Match
+Run 'n Gun 						(eddig: roham)
+Overwatch 						(eddig: készenlét)
+Long Watch 						(eddig: készenlét távcsõvel)
+Review earned science credits	ötlet?
+Advanced Warfare Center:		ötlet?
+Dashing 						(eddig "rohanás")
+Mission Control: 				ötlet?
+Plated Armor (ez az Alloy-Armor): ötlet?
+Missed (avagy: nem talált)		ötlet?
+Reanimated						ötlet?
 ...(bõvül még)
 
 Ismert problémák:
 - lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még keresek megoldást, addig meg kell barátkozni az esetenként feltûnõ négyzetekkel
+(ha nem lesz rá megoldás, akkor le lesznek véve nem kompatibilis ékezetek)
 - játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel
+erre majd kerül új szöveg
