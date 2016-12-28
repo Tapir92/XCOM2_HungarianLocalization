@@ -10,6 +10,10 @@ m_strReinforcementsBody=REINFORCEMENTS
 
 DaysToPlatedArmor=DAYS TO PLATED ARMOR
 
+[XComGame.UICharacterPool]
+[UICharacterPool]
+m_strSelectAll=SELECT ALL
+m_strDeselectAll=DESELECT ALL
 
 [XComGame.X2Action_AlertUnit]
 [X2Action_AlertUnit]
