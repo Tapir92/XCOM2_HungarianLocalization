@@ -12,12 +12,13 @@ INFIRMARY = Gyengélkedo
 Confirm = Megerosít
 ENGINEERING = Gyártósor
 SHADOW CHAMBER = Árnykamra
-friendly fire = Baráti tuz
+friendly fire = Baráti tûz
 match = mérkozés
 ranked = rangsorolt
 unranked = nem rangsorolt
 Overdrive Serum = túlhajtó szérum
 
+workshop = mûhely
 
 ADVENT = ADVENT
 MEC = MEC
