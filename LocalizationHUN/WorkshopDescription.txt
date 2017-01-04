@@ -5,7 +5,7 @@ Magyarítás a játékhoz.
 Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
 
 -----Állapot-----
-Interfész: halad
+Interfész: majdnem kész
 Tech, Tárgyak és Projectek: 0%
 Narratív feliratok: 0.000001%
 Mellékes feliratok(tárgyak, technológiák leírásai, stb.): 0%
