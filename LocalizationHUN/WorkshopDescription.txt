@@ -5,7 +5,7 @@ Magyarítás a játékhoz.
 Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
 
 -----Állapot-----
-Interfész: halad
+Interfész: majdnem kész
 Tech, Tárgyak és Projectek: 0%
 Narratív feliratok: 0.000001%
 Mellékes feliratok(tárgyak, technológiák leírásai, stb.): 0%
@@ -29,7 +29,7 @@ Heisenberg
 Technophile Max
 
 DLC-k támogatva lesznek
-Long War támogatva lesz
+Long War támogatva lesz (még gõzöm sincs, hogyan, de mindenképp kéne)
 kérésre egyéb modok is
 
 kommentbe kérek ötleteket a következõ fordításokra:
@@ -46,7 +46,13 @@ Reanimated						ötlet?
 ...(bõvül még)
 
 Ismert problémák:
-- lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még keresek megoldást, addig meg kell barátkozni az esetenként feltûnõ négyzetekkel
-(ha nem lesz rá megoldás, akkor le lesznek véve nem kompatibilis ékezetek)
-- játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel
+1
+lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még keresek megoldást, addig meg kell barátkozni az esetenként feltûnõ négyzetekkel
+
+ennek a megoldására be kéne rakni egy új fontot a játékba, ami ismeri a karaktereket, ha erre tudtok módszert, mondjátok, mert ennek a keresgélése nagyon hátul van a listámon
+ha nem lesz rá megoldás, akkor le lesznek véve nem kompatibilis ékezetek
+----------------------------------------------------------------------------------------------------------------------------
+2 (új hivatalos patch azóta javította)
+játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel 
+
 erre majd kerül új szöveg
