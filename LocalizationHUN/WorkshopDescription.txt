@@ -5,14 +5,14 @@ Magyarítás a játékhoz.
 Amíg a mod be van kapcsolva, az angol szöveg helyett fog megjelenni a magyar.
 
 -----Állapot-----
-Interfész: majdnem kész
+Interfész: halad
 Tech, Tárgyak és Projectek: 0%
 Narratív feliratok: 0.000001%
 Mellékes feliratok(tárgyak, technológiák leírásai, stb.): 0%
 Hibaüzenetek: 0%
 Egyéb (credits, legalscreen, stb.): 0%
 
-Megjegyzem, nagyon sokáig nem lesz teljesen kész, most éppen csak a sikeres mûködés ellenõrzéséig írtam át benne szövegeket.
+Megjegyzem, nagyon sokáig nem lesz teljesen kész, a fõ célom a sikeres mûködés ellenõrzése volt, innentõl lassan, de folyamatosan fog fordulni.
 Akit érdekel, iratkozzon fel rá, a Steam automatán el fogja intézni a frissítéseket, ha halad a fordítás.
 
 Nagy meló ez a mod és messze nem az elsõdleges elfoglaltságom, ezért bárkit szívesen fogadok egy kis nyelvtudással, hogy hozzájáruljon és ha akarja, itt is viríthat a neve minden pompájában a leírásban
@@ -28,6 +28,7 @@ Tapir
 Heisenberg
 Technophile Max
 
+
 DLC-k támogatva lesznek
 Long War támogatva lesz (még gõzöm sincs, hogyan, de mindenképp kéne)
 kérésre egyéb modok is
@@ -36,9 +37,8 @@ kommentbe kérek ötleteket a következõ fordításokra:
 Run 'n Gun 						(eddig: roham)
 Overwatch 						(eddig: készenlét)
 Long Watch 						(eddig: készenlét távcsõvel)
-Review earned science credits	ötlet?
-Advanced Warfare Center:		ötlet?
-Dashing 						(eddig "rohanás")
+Review earned science credits	(eddig: kutatási tapasztalatok áttekintése)
+Dashing 						(eddig: rohanás)
 Mission Control: 				ötlet?
 Plated Armor (ez az Alloy-Armor): ötlet?
 Missed (avagy: nem talált)		ötlet?
@@ -52,7 +52,9 @@ lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még ke
 ennek a megoldására be kéne rakni egy új fontot a játékba, ami ismeri a karaktereket, ha erre tudtok módszert, mondjátok, mert ennek a keresgélése nagyon hátul van a listámon
 ha nem lesz rá megoldás, akkor le lesznek véve nem kompatibilis ékezetek
 ----------------------------------------------------------------------------------------------------------------------------
-2 (új hivatalos patch azóta javította)
+2 
 játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel 
 
 erre majd kerül új szöveg
+
+(új hivatalos patch azóta javította)

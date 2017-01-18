@@ -5,6 +5,10 @@ Alien = Idegen
 Soldier = Katona
 Start = Indítás
 
+Advanced Warfare Center = Haditechnikai Központ
+Resistance Comms = Kommunikációs Terminál
+
+
 Accept = Elfogad
 Back =  Vissza
 Cancel =  Mégse
@@ -17,6 +21,14 @@ match = mérkozés
 ranked = rangsorolt
 unranked = nem rangsorolt
 Overdrive Serum = túlhajtó szérum
+
+Bar / Memorial = Bár / Emlékfal
+
+Supplies = Készletek
+Intel = Információ (Info)
+
+Small Intel Cache = Kisebb Információmorzsák
+Large Intel Cache = Nagyobb Információmorzsák
 
 workshop = mûhely
 
