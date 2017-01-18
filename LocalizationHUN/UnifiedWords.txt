@@ -1,26 +1,26 @@
 ---------------------------------------------------------------
-Egységesített szavak listája
+				Egységesített szavak listája
 ---------------------------------------------------------------
 Alien = Idegen
 Soldier = Katona
 Start = Indítás
 
 Advanced Warfare Center = Haditechnikai Központ
+AWC = HK
 Resistance Comms = Kommunikációs Terminál
-
 
 Accept = Elfogad
 Back =  Vissza
 Cancel =  Mégse
-INFIRMARY = Gyengélkedo
-Confirm = Megerosít
-ENGINEERING = Gyártósor
+INFIRMARY = Gyengélkedõ
+Confirm = Megerõsít
+ENGINEERING = Mûszaki Osztály
 SHADOW CHAMBER = Árnykamra
 friendly fire = Baráti tûz
 match = mérkozés
 ranked = rangsorolt
 unranked = nem rangsorolt
-Overdrive Serum = túlhajtó szérum
+Overdrive Serum = Túlhajtó Szérum
 
 Bar / Memorial = Bár / Emlékfal
 

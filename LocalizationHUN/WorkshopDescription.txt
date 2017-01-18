@@ -12,6 +12,11 @@ Mellékes feliratok(tárgyak, technológiák leírásai, stb.): 0%
 Hibaüzenetek: 0%
 Egyéb (credits, legalscreen, stb.): 0%
 
+Fontos tudnivaló:
+A configban le van cserélve a mappa elérési útja, ahonnan a szövegeket keresi a játék. 
+Ha kivennéd a workshop mappájából, akkor ezt kézzel korrigálni kell a mod új helyétõl függõen.
+(további info a Config/XComEngine.ini-ben)
+
 Megjegyzem, nagyon sokáig nem lesz teljesen kész, a fõ célom a sikeres mûködés ellenõrzése volt, innentõl lassan, de folyamatosan fog fordulni.
 Akit érdekel, iratkozzon fel rá, a Steam automatán el fogja intézni a frissítéseket, ha halad a fordítás.
 
@@ -27,6 +32,7 @@ Hozzájárultak:
 Tapir
 Heisenberg
 Technophile Max
+SirPeter (a.k.a WilderFox)
 
 
 DLC-k támogatva lesznek
@@ -37,7 +43,6 @@ kommentbe kérek ötleteket a következõ fordításokra:
 Run 'n Gun 						(eddig: roham)
 Overwatch 						(eddig: készenlét)
 Long Watch 						(eddig: készenlét távcsõvel)
-Review earned science credits	(eddig: kutatási tapasztalatok áttekintése)
 Dashing 						(eddig: rohanás)
 Mission Control: 				ötlet?
 Plated Armor (ez az Alloy-Armor): ötlet?
@@ -51,6 +56,7 @@ lehet, hogy 1-2 helyen le kell mondanunk az 'õ' 'û' és 'í' betûkrõl, erre még ke
 
 ennek a megoldására be kéne rakni egy új fontot a játékba, ami ismeri a karaktereket, ha erre tudtok módszert, mondjátok, mert ennek a keresgélése nagyon hátul van a listámon
 ha nem lesz rá megoldás, akkor le lesznek véve nem kompatibilis ékezetek
+
 ----------------------------------------------------------------------------------------------------------------------------
 2 
 játék indításkor az egyik menüben szétesik az egyik indítógomb az új szöveggel 
