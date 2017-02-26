@@ -11,411 +11,412 @@
   <ItemGroup>
     <Folder Include="Config\" />
     <Folder Include="Localization\" />
+    <Folder Include="Localization\INT" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Localization\ACUnitSet.INT">
+    <Content Include="Localization\INT\ACUnitSet.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventChestA.INT">
+    <Content Include="Localization\INT\AdventChestA.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventDoors.INT">
+    <Content Include="Localization\INT\AdventDoors.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventJail.INT">
+    <Content Include="Localization\INT\AdventJail.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventRadar_1x1.INT">
+    <Content Include="Localization\INT\AdventRadar_1x1.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventTower.INT">
+    <Content Include="Localization\INT\AdventTower.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventTower_1x1.INT">
+    <Content Include="Localization\INT\AdventTower_1x1.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventVan_7x2_A.INT">
+    <Content Include="Localization\INT\AdventVan_7x2_A.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\AdventVan_7x2_B.INT">
+    <Content Include="Localization\INT\AdventVan_7x2_B.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Advent_Van.INT">
+    <Content Include="Localization\INT\Advent_Van.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CINCourse.INT">
+    <Content Include="Localization\INT\CINCourse.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_AdventResponse_Art.INT">
+    <Content Include="Localization\INT\CIN_AdventResponse_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Body_RescueCommander_Art.INT">
+    <Content Include="Localization\INT\CIN_Body_RescueCommander_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Body_SkyRangerEvac_Art.INT">
+    <Content Include="Localization\INT\CIN_Body_SkyRangerEvac_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_CentralCurbStomp_Art.INT">
+    <Content Include="Localization\INT\CIN_CentralCurbStomp_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\cin_env_citycenter.INT">
+    <Content Include="Localization\INT\cin_env_citycenter.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Env_CityCenterB_2K.INT">
+    <Content Include="Localization\INT\CIN_Env_CityCenterB_2K.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Env_CityCenter_2K.INT">
+    <Content Include="Localization\INT\CIN_Env_CityCenter_2K.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_FacilityReveal_Art.INT">
+    <Content Include="Localization\INT\CIN_FacilityReveal_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_FlightDeviceBriefing_Art.INT">
+    <Content Include="Localization\INT\CIN_FlightDeviceBriefing_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_FlightDeviceBriefing_Art_CharMask.INT">
+    <Content Include="Localization\INT\CIN_FlightDeviceBriefing_Art_CharMask.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_FlightDeviceBriefing_VehicleMask.INT">
+    <Content Include="Localization\INT\CIN_FlightDeviceBriefing_VehicleMask.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_LineUp_Slum_ENV.INT">
+    <Content Include="Localization\INT\CIN_LineUp_Slum_ENV.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Mask_RescueCommander_Art.INT">
+    <Content Include="Localization\INT\CIN_Mask_RescueCommander_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Mask_SkyRangerEvac_Art.INT">
+    <Content Include="Localization\INT\CIN_Mask_SkyRangerEvac_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_PostIntro_Art.INT">
+    <Content Include="Localization\INT\CIN_PostIntro_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_RescueCommander_Art.INT">
+    <Content Include="Localization\INT\CIN_RescueCommander_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Skin_AdventResponse_Art.INT">
+    <Content Include="Localization\INT\CIN_Skin_AdventResponse_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Skin_CentralCurbStomp_Art.INT">
+    <Content Include="Localization\INT\CIN_Skin_CentralCurbStomp_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Skin_FacilityReveal_Art.INT">
+    <Content Include="Localization\INT\CIN_Skin_FacilityReveal_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Skin_RescueCommander_Art.INT">
+    <Content Include="Localization\INT\CIN_Skin_RescueCommander_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_Skin_SkyRangerEvac_Art.INT">
+    <Content Include="Localization\INT\CIN_Skin_SkyRangerEvac_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_SkyRangerEvac_Art.INT">
+    <Content Include="Localization\INT\CIN_SkyRangerEvac_Art.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_TP_Blacksite_BodyPile.INT">
+    <Content Include="Localization\INT\CIN_TP_Blacksite_BodyPile.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_TP_BodyStorage_Geo.INT">
+    <Content Include="Localization\INT\CIN_TP_BodyStorage_Geo.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_TP_BuildOutpost_ART.INT">
+    <Content Include="Localization\INT\CIN_TP_BuildOutpost_ART.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_TP_BuildOutpost_ART_02.INT">
+    <Content Include="Localization\INT\CIN_TP_BuildOutpost_ART_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\CIN_TP_Forge_Bodies.INT">
+    <Content Include="Localization\INT\CIN_TP_Forge_Bodies.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Destruction_Config_017.INT">
+    <Content Include="Localization\INT\Destruction_Config_017.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Destruction_Config_024.INT">
+    <Content Include="Localization\INT\Destruction_Config_024.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Destruction_Config_GlassTest.INT">
+    <Content Include="Localization\INT\Destruction_Config_GlassTest.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Destruction_Config_NoDestroy.INT">
+    <Content Include="Localization\INT\Destruction_Config_NoDestroy.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Editor.int">
+    <Content Include="Localization\INT\Editor.int">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Engine.INT">
+    <Content Include="Localization\INT\Engine.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\FX_Destruction_Fallback_Debug.INT">
+    <Content Include="Localization\INT\FX_Destruction_Fallback_Debug.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\FX_Fracture_Floating_Debug.INT">
+    <Content Include="Localization\INT\FX_Fracture_Floating_Debug.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\FX_X2_ObstacleCourse.INT">
+    <Content Include="Localization\INT\FX_X2_ObstacleCourse.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\GFxUI.int">
+    <Content Include="Localization\INT\GFxUI.int">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Kincaid_CharacterTest.INT">
+    <Content Include="Localization\INT\Kincaid_CharacterTest.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Launch.int">
+    <Content Include="Localization\INT\Launch.int">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_BlackSite_01.INT">
+    <Content Include="Localization\INT\lg_BlackSite_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_chiptransmitter_01.INT">
+    <Content Include="Localization\INT\lg_chiptransmitter_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Church_02.INT">
+    <Content Include="Localization\INT\lg_Church_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_CloneStorage_01.INT">
+    <Content Include="Localization\INT\lg_CloneStorage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Forge_01.INT">
+    <Content Include="Localization\INT\lg_Forge_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Garage_01.INT">
+    <Content Include="Localization\INT\lg_Garage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_GasStation_01.INT">
+    <Content Include="Localization\INT\lg_GasStation_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_GeneClinic_01.INT">
+    <Content Include="Localization\INT\lg_GeneClinic_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_GeneClinic_01_Theo.INT">
+    <Content Include="Localization\INT\lg_GeneClinic_01_Theo.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_HumanBodyStorage_01.INT">
+    <Content Include="Localization\INT\lg_HumanBodyStorage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_OutpostCommand_01.INT">
+    <Content Include="Localization\INT\lg_OutpostCommand_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_PropagandaCenter_01.INT">
+    <Content Include="Localization\INT\lg_PropagandaCenter_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_PropagandaCenter_02.INT">
+    <Content Include="Localization\INT\lg_PropagandaCenter_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Propaganda_Park_01.INT">
+    <Content Include="Localization\INT\lg_Propaganda_Park_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_RemoteScienceStation_01.INT">
+    <Content Include="Localization\INT\lg_RemoteScienceStation_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_RemoteScienceStation_01_WORKING_BP.INT">
+    <Content Include="Localization\INT\lg_RemoteScienceStation_01_WORKING_BP.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Storefronts_01.INT">
+    <Content Include="Localization\INT\lg_Storefronts_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Townhomes_01.INT">
+    <Content Include="Localization\INT\lg_Townhomes_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\lg_Tutorial_01.INT">
+    <Content Include="Localization\INT\lg_Tutorial_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Abandoned_Lot_02.INT">
+    <Content Include="Localization\INT\md_Abandoned_Lot_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AdventLandingPad_01.INT">
+    <Content Include="Localization\INT\md_AdventLandingPad_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AdventSecurity_01.INT">
+    <Content Include="Localization\INT\md_AdventSecurity_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AdventSecurity_02.INT">
+    <Content Include="Localization\INT\md_AdventSecurity_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AdventTrainStation_01.INT">
+    <Content Include="Localization\INT\md_AdventTrainStation_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Advent_Datacenter_01.INT">
+    <Content Include="Localization\INT\md_Advent_Datacenter_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Advent_Security_01.INT">
+    <Content Include="Localization\INT\md_Advent_Security_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Advent_Security_02.INT">
+    <Content Include="Localization\INT\md_Advent_Security_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Advent_Security_03.INT">
+    <Content Include="Localization\INT\md_Advent_Security_03.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AlienEntertainment_01.INT">
+    <Content Include="Localization\INT\md_AlienEntertainment_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_AlienEntertainment_02.INT">
+    <Content Include="Localization\INT\md_AlienEntertainment_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Bank_02.INT">
+    <Content Include="Localization\INT\md_Bank_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_ChipTransmitter_02.INT">
+    <Content Include="Localization\INT\md_ChipTransmitter_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_ChipTransmitter_03.INT">
+    <Content Include="Localization\INT\md_ChipTransmitter_03.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_CloneStorage_01.INT">
+    <Content Include="Localization\INT\md_CloneStorage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_geneclinic_01.INT">
+    <Content Include="Localization\INT\md_geneclinic_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_House_04.INT">
+    <Content Include="Localization\INT\md_House_04.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_House_TwoStory_01.INT">
+    <Content Include="Localization\INT\md_House_TwoStory_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_HumanBodyStorage_01.INT">
+    <Content Include="Localization\INT\md_HumanBodyStorage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_MeatWarehouse_01.INT">
+    <Content Include="Localization\INT\md_MeatWarehouse_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_RecruitmentCenter_01.INT">
+    <Content Include="Localization\INT\md_RecruitmentCenter_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_RemoteScienceStation_01.INT">
+    <Content Include="Localization\INT\md_RemoteScienceStation_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Storefronts_01.INT">
+    <Content Include="Localization\INT\md_Storefronts_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\md_Tavern_01.INT">
+    <Content Include="Localization\INT\md_Tavern_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Mission_Assets.INT">
+    <Content Include="Localization\INT\Mission_Assets.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SkyRangerSpinMoves_Pacman.INT">
+    <Content Include="Localization\INT\SkyRangerSpinMoves_Pacman.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\sm_ArmsDealer_01.INT">
+    <Content Include="Localization\INT\sm_ArmsDealer_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\sm_Bank_02.INT">
+    <Content Include="Localization\INT\sm_Bank_02.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\sm_Cottage_01.INT">
+    <Content Include="Localization\INT\sm_Cottage_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\sm_Restaurant_01.INT">
+    <Content Include="Localization\INT\sm_Restaurant_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyAdventPropagandaAnn.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyAdventPropagandaAnn.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyAdventSpokesman.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyAdventSpokesman.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyAvengerAI.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyAvengerAI.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyCentral.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyCentral.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyCommClerk.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyCommClerk.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyCouncil.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyCouncil.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyDenmother.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyDenmother.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyEthereal.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyEthereal.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyMenace2.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyMenace2.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyMiscCharacters.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyMiscCharacters.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyPrototype.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyPrototype.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyResistance.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyResistance.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyShen.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyShen.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechStrategyTygan.INT">
+    <Content Include="Localization\INT\SoundSpeechStrategyTygan.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalCentral.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalCentral.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalEthereal.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalEthereal.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalFirebrand.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalFirebrand.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalKelly.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalKelly.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalOsei.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalOsei.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalPropagandaAnnouncer.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalPropagandaAnnouncer.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalRamirez.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalRamirez.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalShen.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalShen.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalSpeaker.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalSpeaker.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalTutorialPickups.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalTutorialPickups.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\SoundSpeechTacticalTygan.INT">
+    <Content Include="Localization\INT\SoundSpeechTacticalTygan.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\Subtitles.int">
+    <Content Include="Localization\INT\Subtitles.int">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\TemplateOverrides.INT">
+    <Content Include="Localization\INT\TemplateOverrides.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\TentpoleWaveData.INT">
+    <Content Include="Localization\INT\TentpoleWaveData.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\TutorialWaveData.INT">
+    <Content Include="Localization\INT\TutorialWaveData.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\X2NarrativeMoments.INT">
+    <Content Include="Localization\INT\X2NarrativeMoments.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\X2_ObstacleCourse.INT">
+    <Content Include="Localization\INT\X2_ObstacleCourse.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\X4_Sequence_Workshop_01.INT">
+    <Content Include="Localization\INT\X4_Sequence_Workshop_01.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\XComGame.INT">
+    <Content Include="Localization\INT\XComGame.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\XComLauncher.INT">
+    <Content Include="Localization\INT\XComLauncher.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\XComShell_Tundra.INT">
+    <Content Include="Localization\INT\XComShell_Tundra.INT">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Localization\XComShell_Wilderness_Day.INT">
+    <Content Include="Localization\INT\XComShell_Wilderness_Day.INT">
       <SubType>Content</SubType>
     </Content>
     <Content Include="ReadMe.txt" />
