@@ -44,3 +44,7 @@ Elite Lancer = ?
 
 dark event = ?
 concealed = ? ( rejtve,rejtett,leplezett,lopakodó,eltakart,suttyonba,elmismásolt)
+
+dodge = kitérés
+grazed = súrolt
+squadsight = csapatlátás
