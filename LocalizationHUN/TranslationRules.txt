@@ -1,0 +1,14 @@
+- a nyelvtan normális legyen, nem elég a google translate copy/paste
+- ha egy fogalom A része elöl, B meg hátul van az eredetiben,
+	ezek sorrendjét nyugodtan meg lehet cserélni a fordításban,
+	fõleg, ha irtózatosan hülyén hangzik magyarul
+
+- ugyanazt a szöveget (interfésznél 1-1 szó esetleges eltéréssel) ugyanúgy fordítsd mindenhol
+- ahol eredetileg nagybetûvel kezdõdnek a fõnevek, azok maradjanak is azok
+pl:
+New Staff Slot Available = Új Személyzeti Hely Elérhetõ
+New Soldier Slot Available = Új Legénységi Hely Elérhetõ
+
+- általános fogalmakat a UnifiedWords-ben találhatsz, ezekhez ragaszkodj, 
+	de, ha tudsz jobbat, szolj és megbeszéljük
+pl. "Accept" ne legyen "Elfogad" és "Alkalmaz" 2 külön helyen

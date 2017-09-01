@@ -424,6 +424,15 @@
     <Content Include="Config\XComEditor.ini" />
     <Content Include="Config\XComEngine.ini" />
     <Content Include="Config\XComGame.ini" />
+    <Content Include="TranslationPending.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="TranslationRules.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UnifiedWords.txt">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="WorkshopDescription.txt">
       <SubType>Content</SubType>
     </Content>
