@@ -48,3 +48,7 @@ concealed = ? ( rejtve,rejtett,leplezett,lopakodó,eltakart,suttyonba,elmismásolt
 dodge = kitérés
 grazed = súrolt
 squadsight = csapatlátás
+
+shredder = aprító
+
+overwatch = 
